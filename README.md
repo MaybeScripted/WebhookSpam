@@ -10,7 +10,7 @@
 
 # usage and that
 
-[!] **if you wanna run by itself read the steps below!** [!]
+[!] **if you wanna use this all by itself read the steps below!** [!]
 
 - **1:** the custom messages you want go in the 'messages.txt'
 - **2:** run the program and then just enter the webhook you wanna use for spam. it will give you a prompt on how many times/how much you wanna spam so just put whatever number i guess
